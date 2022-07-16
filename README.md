@@ -1,6 +1,6 @@
 ﻿# NoLogixTraversalContext
 
-A [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/). Hides the logix tip's node traversal context item
+A [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/). Hides the logix tip's node traversal context item. \
 Requested by [epicEaston197](https://github.com/epicEaston197)
 
 ## Installation
